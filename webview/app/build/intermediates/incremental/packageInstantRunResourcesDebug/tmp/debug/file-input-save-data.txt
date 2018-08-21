@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Aug 21 15:37:10 CST 2018
+0.baseType=DIRECTORY
+0.base=/Users/san/example/webview/app/build/intermediates/assets/debug
+0.path=index.html
+0.set=ASSET
+count=1

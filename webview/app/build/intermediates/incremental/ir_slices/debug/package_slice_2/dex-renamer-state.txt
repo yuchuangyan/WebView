@@ -1,0 +1,4 @@
+#Tue Aug 21 15:37:14 CST 2018
+base.0=/Users/san/example/webview/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
