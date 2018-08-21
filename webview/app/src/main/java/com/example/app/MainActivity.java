@@ -23,10 +23,12 @@ public class MainActivity extends Activity {
         // Enable Javascript
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
+        webSettings.setDomStorageEnabled(true);
 
         // REMOTE RESOURCE
         // mWebView.loadUrl("http://example.com");
-        mWebView.loadUrl("http://www.baidu.com");
+        mWebView.loadUrl("https://web.g.arwawa.sklxsj.com/mangguo_login.php?token=3d3cd4a0-2633-4a35-976a-ba58beccadfd&ua=mangguo_ios&visit=true#");
+//        mWebView.loadUrl("http://www.baidu.com");
         // mWebView.setWebViewClient(new MyWebViewClient());
 
         // LOCAL RESOURCE
